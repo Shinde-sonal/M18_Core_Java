@@ -1,0 +1,2 @@
+module Lamda_function {
+}
